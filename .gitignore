@@ -2,6 +2,7 @@
 *__pycache__
 
 audio_set/
+content/
 
 data/audioset/eval_segments.csv
 data/audioset/unbalanced_train_laughter_audio/
